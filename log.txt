@@ -58,3 +58,10 @@ ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
 a0124c9 fixing starter file
 :
+
+892018f (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+4ed237f Task 2.3
+f89b959 Task 2.3
+a39f318 Task 2.2
+5230263 Task 2.2
+:
